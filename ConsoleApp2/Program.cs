@@ -26,9 +26,6 @@ namespace ConsoleApp2
                     max = i;
             Console.WriteLine(max);
             Console.Read();
-            Console.WriteLine();
-            Console.WriteLine();
-
 
         }
     }
