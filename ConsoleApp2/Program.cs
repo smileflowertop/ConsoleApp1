@@ -27,7 +27,7 @@ namespace ConsoleApp2
             Console.WriteLine(max);
             Console.Read();
             Console.WriteLine();
-
+            Console.WriteLine();
 
 
         }
